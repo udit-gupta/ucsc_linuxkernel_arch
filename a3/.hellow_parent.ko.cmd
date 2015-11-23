@@ -1,0 +1,1 @@
+cmd_/home/student/assignments/a3/hellow_parent.ko := ld -r -m elf_i386 -T /home/student/kernel/linux-2.6.32.68/scripts/module-common.lds --build-id -o /home/student/assignments/a3/hellow_parent.ko /home/student/assignments/a3/hellow_parent.o /home/student/assignments/a3/hellow_parent.mod.o
