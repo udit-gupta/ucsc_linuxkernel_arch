@@ -1,1 +1,1 @@
-This repository contains solutions to all the assignments (inlcuding optional ones) for Linux Kernel Architecture classes (by Anand Pai) at University of California, Santa Cruz Extension, Silicon Valley Campus
+This repository contains solutions to all the assignments (including optional ones) for Linux Kernel Architecture classes (by Anand Pai) at University of California, Santa Cruz Extension, Silicon Valley Campus
